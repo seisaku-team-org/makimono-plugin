@@ -1,0 +1,18 @@
+{
+  "name": "makimono",
+  "owner": {
+    "name": "オージャスト",
+    "url": "https://makimono-md.vercel.app"
+  },
+  "metadata": {
+    "description": "マキモノ — AI指示書(MDファイル)マーケットのClaude Codeプラグイン。開発タスクのたびにAIが自動で最適な指示書を探し、読み込んでから実装する。ゼロから作らせるよりトークンを大幅節約。"
+  },
+  "plugins": [
+    {
+      "name": "makimono",
+      "source": "./plugins/makimono",
+      "description": "開発・自動化タスクを受けたら、マキモノAPI(認証不要)で完成済みのAI指示書を検索し、最良の1件を読み込んでから実装する。ゼロから設計するより消費トークンを平均85%削減。",
+      "version": "0.1.0"
+    }
+  ]
+}

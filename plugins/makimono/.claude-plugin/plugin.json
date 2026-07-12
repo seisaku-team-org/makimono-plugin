@@ -1,0 +1,14 @@
+{
+  "name": "makimono",
+  "displayName": "マキモノ (AI指示書マーケット)",
+  "version": "0.1.0",
+  "description": "開発タスクを受けたら、マキモノ(AI指示書MDファイルのマーケット)から完成済みの指示書を自動で探して読み込み、ゼロから作るよりトークンを大幅節約する。",
+  "author": {
+    "name": "オージャスト",
+    "url": "https://makimono-md.vercel.app"
+  },
+  "homepage": "https://makimono-md.vercel.app",
+  "repository": "https://github.com/orgiast-inc/makimono-plugin",
+  "license": "MIT",
+  "keywords": ["claude-md", "ai指示書", "token-saving", "marketplace", "makimono", "マキモノ"]
+}
