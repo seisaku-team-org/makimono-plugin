@@ -9,7 +9,7 @@
 ## インストール (2コマンド)
 
 ```
-/plugin marketplace add orgiast-inc/makimono-plugin
+/plugin marketplace add seisaku-team-org/makimono-plugin
 /plugin install makimono@makimono
 ```
 

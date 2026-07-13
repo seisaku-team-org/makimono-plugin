@@ -8,7 +8,7 @@
     "url": "https://makimono-md.vercel.app"
   },
   "homepage": "https://makimono-md.vercel.app",
-  "repository": "https://github.com/orgiast-inc/makimono-plugin",
+  "repository": "https://github.com/seisaku-team-org/makimono-plugin",
   "license": "MIT",
   "keywords": ["claude-md", "ai指示書", "token-saving", "marketplace", "makimono", "マキモノ"]
 }
