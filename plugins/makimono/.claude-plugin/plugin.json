@@ -1,8 +1,8 @@
 {
   "name": "makimono",
   "displayName": "マキモノ (AI指示書マーケット)",
-  "version": "0.1.0",
-  "description": "開発タスクを受けたら、マキモノ(AI指示書MDファイルのマーケット)から完成済みの指示書を自動で探して読み込み、ゼロから作るよりトークンを大幅節約する。",
+  "version": "0.2.0",
+  "description": "マキモノ(AI指示書MDファイルのマーケット)と連携。開発タスクでは完成済みの指示書を自動で探して読み込みトークンを節約し(find)、手元の優れた指示書はマキモノに出品できる(publish)。",
   "author": {
     "name": "オージャスト",
     "url": "https://makimono-md.vercel.app"
